@@ -34,13 +34,6 @@ A comprehensive Machine Learning web application that predicts employee retentio
 ![Landing Page](Screen_Shots/Screenshot%202025-09-28%20131310.png)
 *Modern landing page showcasing Employee Retention Prediction System with 23.8% industry average attrition rate and $4,129 average cost per employee*
 
-### � Authentication
-<div align="center">
-<img src="Screen_Shots/login-page.png" width="45%" alt="Login Page">
-<img src="Screen_Shots/register-page.png" width="45%" alt="Register Page">
-</div>
-
-*Secure login and registration system with form validation*
 
 ### 📊 Dashboard Overview
 ![Dashboard](Screen_Shots/Screenshot%202025-09-28%20131419.png)
@@ -408,4 +401,5 @@ If you have any questions or need support, please:
 ---
 
 **Built with ❤️ for HR professionals and data scientists**
+
 
