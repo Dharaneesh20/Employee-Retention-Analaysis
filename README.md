@@ -1,4 +1,4 @@
-# 🎯 Employee Retention Pr### 🔐 Authenticatio### 📈 Data Analysis & Insights
+# Employee Retention Project, Data Analysis & Insights
 ![Data Analysis](Screen_Shots/Screenshot%202025-09-28%20131432.png)
 *Interactive analytics dashboard showing 14,999 total employees, 23.81% attrition rate, 0.61 average satisfaction, with detailed visualizations for satisfaction distribution, attrition by department, salary vs attrition, plus high-risk and retention factors analysis*ystem
 
@@ -408,3 +408,4 @@ If you have any questions or need support, please:
 ---
 
 **Built with ❤️ for HR professionals and data scientists**
+
